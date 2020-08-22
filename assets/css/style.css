@@ -216,7 +216,7 @@ section {
 
 /* 0.2 - Navigation */
 nav {
-  padding: 2.5vh 5%;
+  padding: 5vh 5% 2.5vh;
   display: flex;
   justify-content: space-between;
   text-align: center;
